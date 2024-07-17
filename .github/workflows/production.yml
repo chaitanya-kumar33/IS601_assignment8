@@ -47,6 +47,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: chaitanya-kumar33/IS601_assignment8:latest
+          tags: ca446/is601_assignment8:latest
       
           # Add other relevant build parameters here
